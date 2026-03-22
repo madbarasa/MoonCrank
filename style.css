@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #000; /* Black background for CRT effect */
+}
+
+canvas {
+    display: block;
+    background-color: #000; /* Canvas background is also black */
+}
