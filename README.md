@@ -1,4 +1,4 @@
-# 🎮 Moon Lander (Playdate Style)
+# 🎮 Moon Lander 
 
 A classic Lunar Lander game reimagined with the unique 1-bit aesthetic of the Playdate handheld console. Navigate your lander through challenging lunar terrain, manage your fuel, and achieve a safe landing.
 
